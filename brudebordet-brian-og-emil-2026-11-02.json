@@ -1,0 +1,2799 @@
+{
+  "format": "brudebordet-backup",
+  "version": 1,
+  "exportedAt": "2026-11-02T10:23:04.328Z",
+  "weddingId": "6Ydfg67Dm2",
+  "data": {
+    "rsvp": {},
+    "priv/deadlines": {},
+    "priv/guests": {
+      "27kUHFHM6x": {
+        "adults": 2,
+        "attAdults": null,
+        "attChildren": null,
+        "children": 0,
+        "createdAt": 1792918227563,
+        "email": "",
+        "group": "Brians fætre og kusiner",
+        "linked": true,
+        "manualAt": 1793194293154,
+        "name": "Veronica og Frank",
+        "note": "",
+        "phone": "",
+        "sentAt": null,
+        "status": "afventer"
+      },
+      "4YqmhbgLjy": {
+        "adults": 1,
+        "attAdults": null,
+        "attChildren": null,
+        "children": 0,
+        "createdAt": 1792918229900,
+        "email": "",
+        "group": "Mostre, faster, onkler & tanter",
+        "linked": true,
+        "manualAt": 1793194558125,
+        "name": "Ingermargrethe",
+        "note": "",
+        "phone": "",
+        "sentAt": null,
+        "status": "afventer"
+      },
+      "5KRv9ZtUxB": {
+        "adults": 1,
+        "attAdults": null,
+        "attChildren": null,
+        "children": 0,
+        "createdAt": 1792918226706,
+        "email": "",
+        "group": "Brians fætre og kusiner",
+        "linked": true,
+        "manualAt": 1793194207904,
+        "name": "Bastian",
+        "note": "",
+        "phone": "",
+        "sentAt": null,
+        "status": "afventer"
+      },
+      "6MVJdnk8zK": {
+        "adults": 2,
+        "attAdults": null,
+        "attChildren": null,
+        "children": 0,
+        "createdAt": 1792918230741,
+        "email": "",
+        "group": "Brians fætre og kusiner",
+        "linked": true,
+        "manualAt": 1793194279394,
+        "name": "Mathias og Sarah",
+        "note": "",
+        "phone": "",
+        "sentAt": null,
+        "status": "afventer"
+      },
+      "6QUjkhasN2": {
+        "adults": 2,
+        "attAdults": null,
+        "attChildren": null,
+        "children": 0,
+        "createdAt": 1792918227563,
+        "email": "",
+        "group": "Brians fætre og kusiner",
+        "linked": true,
+        "manualAt": 1793194227939,
+        "name": "Lasse og Marie",
+        "note": "",
+        "phone": "",
+        "sentAt": null,
+        "status": "afventer"
+      },
+      "8FAPPWuRMR": {
+        "adults": 2,
+        "attAdults": null,
+        "attChildren": null,
+        "children": 0,
+        "createdAt": 1792918228443,
+        "email": "",
+        "group": "Gran familie",
+        "linked": true,
+        "manualAt": 1793194643457,
+        "name": "Birger og Bonnie",
+        "note": "",
+        "phone": "",
+        "sentAt": null,
+        "status": "afventer"
+      },
+      "Cic6CA2L57": {
+        "adults": 2,
+        "attAdults": null,
+        "attChildren": null,
+        "children": 0,
+        "createdAt": 1792918229899,
+        "email": "",
+        "group": "Venner",
+        "linked": true,
+        "manualAt": 1793194459377,
+        "name": "Jakob D og Rasmus",
+        "note": "",
+        "phone": "",
+        "sentAt": null,
+        "status": "afventer"
+      },
+      "ETmkQbkSRc": {
+        "adults": 1,
+        "attAdults": null,
+        "attChildren": null,
+        "children": 0,
+        "createdAt": 1792918227564,
+        "email": "",
+        "group": "Mostre, faster, onkler & tanter",
+        "linked": true,
+        "manualAt": 1793194580961,
+        "name": "Lone",
+        "note": "",
+        "phone": "",
+        "sentAt": null,
+        "status": "afventer"
+      },
+      "Eh8C6tV7BS": {
+        "adults": 2,
+        "attAdults": null,
+        "attChildren": null,
+        "children": 0,
+        "createdAt": 1792918230742,
+        "email": "",
+        "group": "Brians fætre og kusiner",
+        "linked": true,
+        "manualAt": 1793194183431,
+        "name": "Christian og Charlotte",
+        "note": "",
+        "phone": "",
+        "sentAt": null,
+        "status": "afventer"
+      },
+      "EjaWKVJPvE": {
+        "adults": 2,
+        "attAdults": null,
+        "attChildren": null,
+        "children": 0,
+        "createdAt": 1792918231744,
+        "email": "",
+        "group": "Venner",
+        "linked": true,
+        "manualAt": 1793194452560,
+        "name": "Lasse og Jimmy",
+        "note": "",
+        "phone": "",
+        "sentAt": null,
+        "status": "afventer"
+      },
+      "FfWfY2iunh": {
+        "adults": 2,
+        "attAdults": null,
+        "attChildren": null,
+        "children": 0,
+        "createdAt": 1792918230743,
+        "email": "",
+        "group": "Brians fætre og kusiner",
+        "linked": true,
+        "manualAt": 1793194198307,
+        "name": "Henrik og Mia",
+        "note": "",
+        "phone": "",
+        "sentAt": null,
+        "status": "afventer"
+      },
+      "GM4hSSYgSx": {
+        "adults": 2,
+        "attAdults": null,
+        "attChildren": null,
+        "children": 0,
+        "createdAt": 1792918226705,
+        "email": "",
+        "group": "Mostre, faster, onkler & tanter",
+        "linked": true,
+        "manualAt": 1793194585211,
+        "name": "Lone og Rene",
+        "note": "",
+        "phone": "",
+        "sentAt": null,
+        "status": "afventer"
+      },
+      "JUCcNE9Vqq": {
+        "adults": 1,
+        "attAdults": null,
+        "attChildren": null,
+        "children": 0,
+        "createdAt": 1792918229898,
+        "email": "",
+        "group": "Venner",
+        "linked": true,
+        "manualAt": 1793194416472,
+        "name": "Steven",
+        "note": "",
+        "phone": "",
+        "sentAt": null,
+        "status": "afventer"
+      },
+      "Jn72ggLNzr": {
+        "adults": 2,
+        "attAdults": null,
+        "attChildren": null,
+        "children": 0,
+        "createdAt": 1792918228444,
+        "email": "",
+        "group": "Venner",
+        "linked": true,
+        "manualAt": 1793194312382,
+        "name": "Annastasia og Anton",
+        "note": "",
+        "phone": "",
+        "sentAt": null,
+        "status": "afventer"
+      },
+      "JtboDQBDrq": {
+        "adults": 2,
+        "attAdults": null,
+        "attChildren": null,
+        "children": 0,
+        "createdAt": 1792918225911,
+        "email": "",
+        "group": "Bedsteforældre",
+        "linked": true,
+        "manualAt": 1793194666481,
+        "name": "Liselotte og Mogens",
+        "note": "",
+        "phone": "",
+        "sentAt": null,
+        "status": "afventer"
+      },
+      "LzP5UhpFEe": {
+        "adults": 1,
+        "attAdults": null,
+        "attChildren": null,
+        "children": 0,
+        "createdAt": 1792918225911,
+        "email": "",
+        "group": "Forældre",
+        "linked": true,
+        "manualAt": 1793194355510,
+        "name": "Bodil",
+        "note": "",
+        "phone": "",
+        "sentAt": null,
+        "status": "afventer"
+      },
+      "M3CRpzdGNK": {
+        "adults": 1,
+        "attAdults": null,
+        "attChildren": null,
+        "children": 0,
+        "createdAt": 1792918226707,
+        "email": "",
+        "group": "Brians fætre og kusiner",
+        "linked": true,
+        "manualAt": 1793194679727,
+        "name": "Milo",
+        "note": "",
+        "phone": "",
+        "sentAt": null,
+        "status": "afventer"
+      },
+      "NSU6AZ9bKT": {
+        "adults": 1,
+        "attAdults": null,
+        "attChildren": null,
+        "children": 0,
+        "createdAt": 1792918225911,
+        "email": "",
+        "group": "Forældre",
+        "linked": true,
+        "manualAt": 1793194347028,
+        "name": "Christiane",
+        "note": "",
+        "phone": "",
+        "sentAt": null,
+        "status": "afventer"
+      },
+      "NmuwD8PjEj": {
+        "adults": 2,
+        "attAdults": null,
+        "attChildren": null,
+        "children": 0,
+        "createdAt": 1792918225911,
+        "email": "",
+        "group": "Søskende",
+        "linked": true,
+        "manualAt": 1793194502809,
+        "name": "Cecilie og Nicolai",
+        "note": "",
+        "phone": "",
+        "sentAt": null,
+        "status": "afventer"
+      },
+      "P69aLSf37V": {
+        "adults": 2,
+        "attAdults": null,
+        "attChildren": null,
+        "children": 0,
+        "createdAt": 1792918227564,
+        "email": "",
+        "group": "Emils fætre og kusiner",
+        "linked": true,
+        "manualAt": 1793194691639,
+        "name": "Rikke og Daniel",
+        "note": "",
+        "phone": "",
+        "sentAt": null,
+        "status": "afventer"
+      },
+      "PGvnxwcQRU": {
+        "adults": 2,
+        "attAdults": null,
+        "attChildren": null,
+        "children": 0,
+        "createdAt": 1792918228442,
+        "email": "",
+        "group": "Emils fætre og kusiner",
+        "linked": true,
+        "manualAt": 1793194264546,
+        "name": "Mia og Kristoffer",
+        "note": "",
+        "phone": "",
+        "sentAt": null,
+        "status": "afventer"
+      },
+      "PJmPDM5S4M": {
+        "adults": 2,
+        "attAdults": null,
+        "attChildren": null,
+        "children": 0,
+        "createdAt": 1792918230742,
+        "email": "",
+        "group": "Mostre, faster, onkler & tanter",
+        "linked": true,
+        "manualAt": 1793194598379,
+        "name": "Tove og Niels",
+        "note": "",
+        "phone": "",
+        "sentAt": null,
+        "status": "afventer"
+      },
+      "RNQyyEhwA3": {
+        "adults": 1,
+        "attAdults": null,
+        "attChildren": null,
+        "children": 0,
+        "createdAt": 1792918227562,
+        "email": "",
+        "group": "Mostre, faster, onkler & tanter",
+        "linked": true,
+        "manualAt": 1793194562959,
+        "name": "Jane",
+        "note": "",
+        "phone": "",
+        "sentAt": null,
+        "status": "afventer"
+      },
+      "SJPgTB4Bja": {
+        "adults": 2,
+        "attAdults": null,
+        "attChildren": null,
+        "children": 0,
+        "createdAt": 1792918231745,
+        "email": "",
+        "group": "Gran familie",
+        "linked": true,
+        "manualAt": 1793194631913,
+        "name": "Peter og Jen",
+        "note": "",
+        "phone": "",
+        "sentAt": null,
+        "status": "afventer"
+      },
+      "TwdKzHLUhS": {
+        "adults": 1,
+        "attAdults": null,
+        "attChildren": null,
+        "children": 0,
+        "createdAt": 1792918229899,
+        "email": "",
+        "group": "Venner",
+        "linked": true,
+        "manualAt": 1793194378176,
+        "name": "Lukas",
+        "note": "",
+        "phone": "",
+        "sentAt": null,
+        "status": "afventer"
+      },
+      "UqMYvD5mtV": {
+        "adults": 2,
+        "attAdults": null,
+        "attChildren": null,
+        "children": 0,
+        "createdAt": 1792918226706,
+        "email": "",
+        "group": "Brians fætre og kusiner",
+        "linked": true,
+        "manualAt": 1793194239294,
+        "name": "Max og Rikke",
+        "note": "",
+        "phone": "",
+        "sentAt": null,
+        "status": "afventer"
+      },
+      "V6PpguACzK": {
+        "adults": 2,
+        "attAdults": null,
+        "attChildren": null,
+        "children": 0,
+        "createdAt": 1792918227562,
+        "email": "",
+        "group": "Brians fætre og kusiner",
+        "linked": true,
+        "manualAt": 1793194175352,
+        "name": "Cecilie og Kristian",
+        "note": "",
+        "phone": "",
+        "sentAt": null,
+        "status": "afventer"
+      },
+      "Y9nuqjKPok": {
+        "adults": 2,
+        "attAdults": null,
+        "attChildren": null,
+        "children": 0,
+        "createdAt": 1792918230742,
+        "email": "",
+        "group": "Brians fætre og kusiner",
+        "linked": true,
+        "manualAt": 1793194165402,
+        "name": "Andreas og Nanna",
+        "note": "",
+        "phone": "",
+        "sentAt": null,
+        "status": "afventer"
+      },
+      "Zyd43J9FCB": {
+        "adults": 2,
+        "attAdults": null,
+        "attChildren": null,
+        "children": 0,
+        "createdAt": 1792918228444,
+        "email": "",
+        "group": "Venner",
+        "linked": true,
+        "manualAt": 1793194428052,
+        "name": "Nanna og Daniel",
+        "note": "",
+        "phone": "",
+        "sentAt": null,
+        "status": "afventer"
+      },
+      "aFVM4Y2VHk": {
+        "adults": 2,
+        "attAdults": null,
+        "attChildren": null,
+        "children": 0,
+        "createdAt": 1792918226704,
+        "email": "",
+        "group": "Søskende",
+        "linked": true,
+        "manualAt": 1793194494845,
+        "name": "Jonas og Pernille",
+        "note": "",
+        "phone": "",
+        "sentAt": null,
+        "status": "afventer"
+      },
+      "bbRNAwyiEq": {
+        "adults": 2,
+        "attAdults": null,
+        "attChildren": null,
+        "children": 0,
+        "createdAt": 1792918230743,
+        "email": "",
+        "group": "Brians fætre og kusiner",
+        "linked": true,
+        "manualAt": 1793194219305,
+        "name": "Jesper og Mette",
+        "note": "",
+        "phone": "",
+        "sentAt": null,
+        "status": "afventer"
+      },
+      "bn24xCkAAB": {
+        "adults": 2,
+        "attAdults": null,
+        "attChildren": null,
+        "children": 0,
+        "createdAt": 1792918229900,
+        "email": "",
+        "group": "Brians fætre og kusiner",
+        "linked": true,
+        "manualAt": 1793194192669,
+        "name": "Gitte og Flemming",
+        "note": "",
+        "phone": "",
+        "sentAt": null,
+        "status": "afventer"
+      },
+      "br4nrXTHqx": {
+        "adults": 2,
+        "attAdults": null,
+        "attChildren": null,
+        "children": 0,
+        "createdAt": 1792918225911,
+        "email": "",
+        "group": "Søskende",
+        "linked": true,
+        "manualAt": 1793194325357,
+        "name": "Bruno og Nikoline",
+        "note": "",
+        "phone": "",
+        "sentAt": null,
+        "status": "afventer"
+      },
+      "cDkz9AM8NQ": {
+        "adults": 1,
+        "attAdults": null,
+        "attChildren": null,
+        "children": 0,
+        "createdAt": 1792918231746,
+        "email": "",
+        "group": "Venner",
+        "linked": true,
+        "manualAt": 1793194438101,
+        "name": "Maja",
+        "note": "",
+        "phone": "",
+        "sentAt": null,
+        "status": "afventer"
+      },
+      "dNGoYKrzfC": {
+        "adults": 1,
+        "attAdults": null,
+        "attChildren": null,
+        "children": 0,
+        "createdAt": 1792918228445,
+        "email": "",
+        "group": "Venner",
+        "linked": true,
+        "manualAt": 1793194403514,
+        "name": "Vibe",
+        "note": "",
+        "phone": "",
+        "sentAt": null,
+        "status": "afventer"
+      },
+      "eWQVzJScjm": {
+        "adults": 1,
+        "attAdults": null,
+        "attChildren": null,
+        "children": 0,
+        "createdAt": 1792918225911,
+        "email": "",
+        "group": "Forældre",
+        "linked": true,
+        "manualAt": 1793194365797,
+        "name": "Kaj",
+        "note": "",
+        "phone": "",
+        "sentAt": null,
+        "status": "afventer"
+      },
+      "f8NFTn3UC7": {
+        "adults": 2,
+        "attAdults": null,
+        "attChildren": null,
+        "children": 0,
+        "createdAt": 1792918226707,
+        "email": "",
+        "group": "Mostre, faster, onkler & tanter",
+        "linked": true,
+        "manualAt": 1793194543915,
+        "name": "Bente og Luc",
+        "note": "",
+        "phone": "",
+        "sentAt": null,
+        "status": "afventer"
+      },
+      "f9XNh2gxmk": {
+        "adults": 2,
+        "attAdults": null,
+        "attChildren": null,
+        "children": 0,
+        "createdAt": 1792918227561,
+        "email": "",
+        "group": "Brians fætre og kusiner",
+        "linked": true,
+        "manualAt": 1793194246805,
+        "name": "Michael og Majken",
+        "note": "",
+        "phone": "",
+        "sentAt": null,
+        "status": "afventer"
+      },
+      "ijkRhXGFrp": {
+        "adults": 2,
+        "attAdults": null,
+        "attChildren": null,
+        "children": 0,
+        "createdAt": 1792918230742,
+        "email": "",
+        "group": "Brians fætre og kusiner",
+        "linked": true,
+        "manualAt": 1793194146358,
+        "name": "Alexander og Rosa",
+        "note": "",
+        "phone": "",
+        "sentAt": null,
+        "status": "afventer"
+      },
+      "jKsVDR2upx": {
+        "adults": 2,
+        "attAdults": null,
+        "attChildren": null,
+        "children": 0,
+        "createdAt": 1792918225910,
+        "email": "",
+        "group": "Brudepar",
+        "linked": true,
+        "manualAt": 1793194335793,
+        "name": "Brian og Emil",
+        "note": "",
+        "phone": "",
+        "sentAt": null,
+        "status": "ja"
+      },
+      "n9qnLZw6Jt": {
+        "adults": 2,
+        "attAdults": null,
+        "attChildren": null,
+        "children": 0,
+        "createdAt": 1792918226706,
+        "email": "",
+        "group": "Brians fætre og kusiner",
+        "linked": true,
+        "manualAt": 1793194272254,
+        "name": "Stig og Anne Julie",
+        "note": "",
+        "phone": "",
+        "sentAt": null,
+        "status": "afventer"
+      },
+      "nxNKYs9eAa": {
+        "adults": 2,
+        "attAdults": null,
+        "attChildren": null,
+        "children": 0,
+        "createdAt": 1792918230743,
+        "email": "",
+        "group": "Brians fætre og kusiner",
+        "linked": true,
+        "manualAt": 1793194288388,
+        "name": "Victoria og Magnus",
+        "note": "",
+        "phone": "",
+        "sentAt": null,
+        "status": "afventer"
+      },
+      "p8nbZehV8D": {
+        "adults": 1,
+        "attAdults": null,
+        "attChildren": null,
+        "children": 0,
+        "createdAt": 1792918228445,
+        "email": "",
+        "group": "Venner",
+        "linked": true,
+        "manualAt": 1793194483626,
+        "name": "Emma",
+        "note": "",
+        "phone": "",
+        "sentAt": null,
+        "status": "afventer"
+      },
+      "qyhwKWPRU7": {
+        "adults": 1,
+        "attAdults": null,
+        "attChildren": null,
+        "children": 0,
+        "createdAt": 1792918226708,
+        "email": "",
+        "group": "Venner",
+        "linked": true,
+        "manualAt": 1793194433670,
+        "name": "Martin",
+        "note": "",
+        "phone": "",
+        "sentAt": null,
+        "status": "afventer"
+      },
+      "s82G8udbDv": {
+        "adults": 1,
+        "attAdults": null,
+        "attChildren": null,
+        "children": 0,
+        "createdAt": 1792918231744,
+        "email": "",
+        "group": "Venner",
+        "linked": true,
+        "manualAt": 1793194398299,
+        "name": "Søren",
+        "note": "",
+        "phone": "",
+        "sentAt": null,
+        "status": "afventer"
+      },
+      "sFJutFC6Sd": {
+        "adults": 2,
+        "attAdults": null,
+        "attChildren": null,
+        "children": 0,
+        "createdAt": 1792918231745,
+        "email": "",
+        "group": "Venner",
+        "linked": true,
+        "manualAt": 1793194653918,
+        "name": "Karina og Rune",
+        "note": "",
+        "phone": "",
+        "sentAt": null,
+        "status": "afventer"
+      },
+      "sTJ7Cebp77": {
+        "adults": 2,
+        "attAdults": null,
+        "attChildren": null,
+        "children": 0,
+        "createdAt": 1792918229900,
+        "email": "",
+        "group": "Venner",
+        "linked": true,
+        "manualAt": 1793194465095,
+        "name": "Jacob og Marie",
+        "note": "",
+        "phone": "",
+        "sentAt": null,
+        "status": "afventer"
+      },
+      "sbjMJWDZew": {
+        "adults": 2,
+        "attAdults": null,
+        "attChildren": null,
+        "children": 0,
+        "createdAt": 1792918228443,
+        "email": "",
+        "group": "Gran familie",
+        "linked": true,
+        "manualAt": 1793194624431,
+        "name": "Søren og Sandie",
+        "note": "",
+        "phone": "",
+        "sentAt": null,
+        "status": "afventer"
+      },
+      "wdzWrPmEAR": {
+        "adults": 2,
+        "attAdults": null,
+        "attChildren": null,
+        "children": 0,
+        "createdAt": 1792918228444,
+        "email": "",
+        "group": "Venner",
+        "linked": true,
+        "manualAt": 1793194421380,
+        "name": "Sarah og Frede",
+        "note": "",
+        "phone": "",
+        "sentAt": null,
+        "status": "afventer"
+      },
+      "wsUA6nXGr8": {
+        "adults": 1,
+        "attAdults": null,
+        "attChildren": null,
+        "children": 0,
+        "createdAt": 1792918229898,
+        "email": "",
+        "group": "Venner",
+        "linked": true,
+        "manualAt": 1793194473440,
+        "name": "Knudsen",
+        "note": "",
+        "phone": "",
+        "sentAt": null,
+        "status": "afventer"
+      },
+      "x2xPn8aYCV": {
+        "adults": 2,
+        "attAdults": null,
+        "attChildren": null,
+        "children": 0,
+        "createdAt": 1792918229899,
+        "email": "",
+        "group": "Venner",
+        "linked": true,
+        "manualAt": 1793194442739,
+        "name": "Mads og Joachim",
+        "note": "",
+        "phone": "",
+        "sentAt": null,
+        "status": "afventer"
+      },
+      "xKCw8EQbKb": {
+        "adults": 2,
+        "attAdults": null,
+        "attChildren": null,
+        "children": 0,
+        "createdAt": 1792918227564,
+        "email": "",
+        "group": "Mostre, faster, onkler & tanter",
+        "linked": true,
+        "manualAt": 1793194569272,
+        "name": "Kim og Kirsten",
+        "note": "",
+        "phone": "",
+        "sentAt": null,
+        "status": "afventer"
+      }
+    },
+    "links/cfg": {
+      "allergy": {
+        "label": "Allergier eller andet, vi skal vide",
+        "on": true
+      },
+      "features": [
+        {
+          "budget": true,
+          "desc": "Angiv herunder hvilke nætter I ønsker at overnatte",
+          "id": "P26bh9tnAD",
+          "items": [
+            {
+              "id": "3DKd2NWzf9",
+              "price": 100,
+              "title": "Onsdag til torsdag"
+            },
+            {
+              "id": "6GhuXsgmXe",
+              "price": 100,
+              "title": "Torsdag til fredag"
+            },
+            {
+              "id": "b5SvHwpmDi",
+              "price": 300,
+              "title": "Fredag til lørdag"
+            },
+            {
+              "id": "UoWNexiDh8",
+              "price": 100,
+              "title": "Lørdag til søndag"
+            },
+            {
+              "id": "m7UfsBjEzr",
+              "price": 100,
+              "title": "Søndag til mandag"
+            }
+          ],
+          "mode": "multi",
+          "title": "Overnatning"
+        },
+        {
+          "budget": false,
+          "desc": "Linnedpakke består af: sengelinned, 1 x stort håndklæde, 1 x lille håndklæde samt 1 x viskestykke",
+          "id": "rCGCgyZFkd",
+          "items": [
+            {
+              "id": "3xtRGktuaM",
+              "price": 130,
+              "title": "Sengelinned"
+            }
+          ],
+          "mode": "one",
+          "title": "Ønsker I linnedpakke"
+        }
+      ],
+      "intro": "",
+      "payment": ""
+    },
+    "pub/toast/main": null,
+    "priv/room/main": {
+      "h": 12.5,
+      "w": 23.48
+    },
+    "priv/tables": {
+      "5y6cvUYeaJ": {
+        "createdAt": 1793126922723,
+        "h": 250,
+        "kind": "bar",
+        "no": "Bar",
+        "ppl": [],
+        "seats": 0,
+        "shape": "square",
+        "w": 80,
+        "x": 2185,
+        "y": 125
+      },
+      "6vG6zP2QvE": {
+        "createdAt": 1793102384348,
+        "h": 180,
+        "no": "1",
+        "ppl": [
+          {
+            "gid": "jKsVDR2upx",
+            "id": "9XLmwc64Wy",
+            "n": 1,
+            "name": "Emil"
+          },
+          {
+            "gid": "wsUA6nXGr8",
+            "id": "xrBktqdVJB",
+            "n": 1,
+            "name": "Knudsen"
+          },
+          {
+            "gid": "Zyd43J9FCB",
+            "id": "7LSfLQ8FoW",
+            "n": 1,
+            "name": "Nanna"
+          },
+          {
+            "gid": "Zyd43J9FCB",
+            "id": "FKsMkCSTca",
+            "n": 1,
+            "name": "Daniel"
+          },
+          {
+            "gid": "EjaWKVJPvE",
+            "id": "ZKmpmkGFtG",
+            "n": 1,
+            "name": "Jimmy"
+          },
+          {
+            "gid": "EjaWKVJPvE",
+            "id": "XmjMygtpGR",
+            "n": 1,
+            "name": "Lasse"
+          },
+          {
+            "gid": "JUCcNE9Vqq",
+            "id": "GfmgUHjWVo",
+            "n": 1,
+            "name": "Steven"
+          },
+          {
+            "gid": "jKsVDR2upx",
+            "id": "2dSaKo94QR",
+            "n": 1,
+            "name": "Brian"
+          }
+        ],
+        "seats": 8,
+        "shape": "round",
+        "w": 180,
+        "x": 1040,
+        "y": 315
+      },
+      "HCQmEa6SMy": {
+        "createdAt": 1793103484157,
+        "h": 160,
+        "no": "7",
+        "ppl": [
+          {
+            "gid": "x2xPn8aYCV",
+            "id": "sjDjKzH2Gw",
+            "n": 1,
+            "name": "Mads"
+          },
+          {
+            "gid": "x2xPn8aYCV",
+            "id": "xkCp8nBu9u",
+            "n": 1,
+            "name": "Joachim"
+          },
+          {
+            "gid": "sFJutFC6Sd",
+            "id": "Q948fH82bv",
+            "n": 1,
+            "name": "Karina"
+          },
+          {
+            "gid": "sFJutFC6Sd",
+            "id": "nxozmZLSM8",
+            "n": 1,
+            "name": "Rune"
+          },
+          {
+            "gid": "Cic6CA2L57",
+            "id": "Yum9AhczfD",
+            "n": 1,
+            "name": "Jakob D"
+          },
+          {
+            "gid": "Cic6CA2L57",
+            "id": "GJUVFtep9d",
+            "n": 1,
+            "name": "Rasmus"
+          },
+          {
+            "gid": "s82G8udbDv",
+            "id": "GYdqGy3CWc",
+            "n": 1,
+            "name": "Søren"
+          },
+          {
+            "gid": "qyhwKWPRU7",
+            "id": "etDu3vhUxc",
+            "n": 1,
+            "name": "Martin"
+          }
+        ],
+        "seats": 8,
+        "shape": "round",
+        "w": 160,
+        "x": 2060,
+        "y": 985
+      },
+      "Jy24BscVJ7": {
+        "createdAt": 1793103472478,
+        "h": 160,
+        "no": "6",
+        "ppl": [
+          {
+            "gid": "eWQVzJScjm",
+            "id": "ZWpaCgoA8e",
+            "n": 1,
+            "name": "Kaj"
+          },
+          {
+            "gid": "xKCw8EQbKb",
+            "id": "7qnHpZYkpw",
+            "n": 1,
+            "name": "Kim"
+          },
+          {
+            "gid": "xKCw8EQbKb",
+            "id": "dQqiUUWQC8",
+            "n": 1,
+            "name": "Kirsten"
+          },
+          {
+            "gid": "ETmkQbkSRc",
+            "id": "DbBFEfQzJh",
+            "n": 1,
+            "name": "Lone"
+          },
+          {
+            "gid": "4YqmhbgLjy",
+            "id": "6j96R83DvE",
+            "n": 1,
+            "name": "Ingermargrethe"
+          },
+          {
+            "gid": "PJmPDM5S4M",
+            "id": "8vJJALuxR2",
+            "n": 1,
+            "name": "Tove"
+          },
+          {
+            "gid": "PJmPDM5S4M",
+            "id": "xKFZPyZgzH",
+            "n": 1,
+            "name": "Niels"
+          },
+          {
+            "gid": "RNQyyEhwA3",
+            "id": "hcu829YHvd",
+            "n": 1,
+            "name": "Jane"
+          }
+        ],
+        "seats": 8,
+        "shape": "round",
+        "w": 160,
+        "x": 1720,
+        "y": 985
+      },
+      "Nhg3DxWCH5": {
+        "createdAt": 1793103457494,
+        "h": 160,
+        "no": "5",
+        "ppl": [
+          {
+            "gid": "br4nrXTHqx",
+            "id": "iescY9iiMN",
+            "n": 1,
+            "name": "Bruno"
+          },
+          {
+            "gid": "br4nrXTHqx",
+            "id": "AKhXjtZJKU",
+            "n": 1,
+            "name": "Nikoline"
+          },
+          {
+            "gid": "aFVM4Y2VHk",
+            "id": "eJdB7GZbh5",
+            "n": 1,
+            "name": "Jonas"
+          },
+          {
+            "gid": "aFVM4Y2VHk",
+            "id": "WfxsFQAaML",
+            "n": 1,
+            "name": "Pernille"
+          },
+          {
+            "gid": "SJPgTB4Bja",
+            "id": "uMWmGt8MCc",
+            "n": 1,
+            "name": "Peter"
+          },
+          {
+            "gid": "SJPgTB4Bja",
+            "id": "nyweFLydag",
+            "n": 1,
+            "name": "Jen"
+          },
+          {
+            "gid": "FfWfY2iunh",
+            "id": "RNhaZMYTBZ",
+            "n": 1,
+            "name": "Henrik"
+          },
+          {
+            "gid": "FfWfY2iunh",
+            "id": "Khi8gHjUat",
+            "n": 1,
+            "name": "Mia"
+          }
+        ],
+        "seats": 8,
+        "shape": "round",
+        "w": 160,
+        "x": 1375,
+        "y": 985
+      },
+      "TQeEqGDqCB": {
+        "createdAt": 1793103522963,
+        "h": 160,
+        "no": "9",
+        "ppl": [
+          {
+            "gid": "f9XNh2gxmk",
+            "id": "tufRJgJoSD",
+            "n": 1,
+            "name": "Michael"
+          },
+          {
+            "gid": "f9XNh2gxmk",
+            "id": "KiSSHCBQbq",
+            "n": 1,
+            "name": "Majken"
+          },
+          {
+            "gid": "V6PpguACzK",
+            "id": "wXy98RnhzR",
+            "n": 1,
+            "name": "Cecilie"
+          },
+          {
+            "gid": "V6PpguACzK",
+            "id": "4hSzEdY7H3",
+            "n": 1,
+            "name": "Kristian"
+          },
+          {
+            "gid": "5KRv9ZtUxB",
+            "id": "pfUkxYVs4C",
+            "n": 1,
+            "name": "Bastian"
+          },
+          {
+            "gid": "M3CRpzdGNK",
+            "id": "fMn7PpeKVo",
+            "n": 1,
+            "name": "Milo"
+          },
+          {
+            "gid": "bbRNAwyiEq",
+            "id": "xcdnSPtECw",
+            "n": 1,
+            "name": "Jesper"
+          },
+          {
+            "gid": "bbRNAwyiEq",
+            "id": "7TqcbcCCRe",
+            "n": 1,
+            "name": "Mette"
+          }
+        ],
+        "seats": 8,
+        "shape": "round",
+        "w": 160,
+        "x": 1035,
+        "y": 660
+      },
+      "TuvEPpwawK": {
+        "createdAt": 1793103515985,
+        "h": 160,
+        "no": "8",
+        "ppl": [
+          {
+            "gid": "ijkRhXGFrp",
+            "id": "otLqbcHCMW",
+            "n": 1,
+            "name": "Alexander"
+          },
+          {
+            "gid": "ijkRhXGFrp",
+            "id": "SAq2QA5vSX",
+            "n": 1,
+            "name": "Rosa"
+          },
+          {
+            "gid": "nxNKYs9eAa",
+            "id": "oCM3jzYqLp",
+            "n": 1,
+            "name": "Victoria"
+          },
+          {
+            "gid": "nxNKYs9eAa",
+            "id": "uCLXVLdhZN",
+            "n": 1,
+            "name": "Magnus"
+          },
+          {
+            "gid": "6MVJdnk8zK",
+            "id": "FKHnkqTQUA",
+            "n": 1,
+            "name": "Mathias"
+          },
+          {
+            "gid": "6MVJdnk8zK",
+            "id": "XjafM9JSkB",
+            "n": 1,
+            "name": "Sarah"
+          },
+          {
+            "gid": "Y9nuqjKPok",
+            "id": "EHVEKSWVSz",
+            "n": 1,
+            "name": "Andreas"
+          },
+          {
+            "gid": "Y9nuqjKPok",
+            "id": "HFXxpA59nj",
+            "n": 1,
+            "name": "Nanna"
+          }
+        ],
+        "seats": 8,
+        "shape": "round",
+        "w": 160,
+        "x": 2050,
+        "y": 640
+      },
+      "fEAVdGrkjW": {
+        "createdAt": 1793103427800,
+        "h": 160,
+        "no": "3",
+        "ppl": [
+          {
+            "gid": "UqMYvD5mtV",
+            "id": "QzwYg6vvho",
+            "n": 1,
+            "name": "Max"
+          },
+          {
+            "gid": "UqMYvD5mtV",
+            "id": "RBU5SxBFEX",
+            "n": 1,
+            "name": "Rikke"
+          },
+          {
+            "gid": "n9qnLZw6Jt",
+            "id": "LKDqdsd5VX",
+            "n": 1,
+            "name": "Stig"
+          },
+          {
+            "gid": "n9qnLZw6Jt",
+            "id": "hUh3fSwmwC",
+            "n": 1,
+            "name": "Anne Julie"
+          },
+          {
+            "gid": "6QUjkhasN2",
+            "id": "4cGciq5aMc",
+            "n": 1,
+            "name": "Lasse"
+          },
+          {
+            "gid": "6QUjkhasN2",
+            "id": "ajnwqruRXM",
+            "n": 1,
+            "name": "Marie"
+          },
+          {
+            "gid": "27kUHFHM6x",
+            "id": "T9HQ2e6dPY",
+            "n": 1,
+            "name": "Veronica"
+          },
+          {
+            "gid": "27kUHFHM6x",
+            "id": "wFHQfspvSq",
+            "n": 1,
+            "name": "Frank"
+          }
+        ],
+        "seats": 8,
+        "shape": "round",
+        "w": 160,
+        "x": 1715,
+        "y": 645
+      },
+      "fYrBLPF6NV": {
+        "createdAt": 1793103538359,
+        "h": 160,
+        "no": "11",
+        "ppl": [
+          {
+            "gid": "bn24xCkAAB",
+            "id": "RywVm9Z4LV",
+            "n": 1,
+            "name": "Gitte"
+          },
+          {
+            "gid": "bn24xCkAAB",
+            "id": "z4wrcX9kbu",
+            "n": 1,
+            "name": "Flemming"
+          },
+          {
+            "gid": "Eh8C6tV7BS",
+            "id": "HUVustLofp",
+            "n": 1,
+            "name": "Christian"
+          },
+          {
+            "gid": "Eh8C6tV7BS",
+            "id": "mNvJ3k3LdS",
+            "n": 1,
+            "name": "Charlotte"
+          },
+          {
+            "gid": "sbjMJWDZew",
+            "id": "z3VLGvUzky",
+            "n": 1,
+            "name": "Søren"
+          },
+          {
+            "gid": "8FAPPWuRMR",
+            "id": "5xr5hmXG7a",
+            "n": 1,
+            "name": "Birger"
+          },
+          {
+            "gid": "sbjMJWDZew",
+            "id": "NGpTz36PEg",
+            "n": 1,
+            "name": "Sandie"
+          },
+          {
+            "gid": "8FAPPWuRMR",
+            "id": "hyhEVHFapD",
+            "n": 1,
+            "name": "Bonnie"
+          }
+        ],
+        "seats": 8,
+        "shape": "round",
+        "w": 160,
+        "x": 1365,
+        "y": 655
+      },
+      "iBLA5yVPRx": {
+        "createdAt": 1793126146359,
+        "h": 600,
+        "kind": "stage",
+        "no": "Scene",
+        "ppl": [],
+        "seats": 0,
+        "shape": "square",
+        "w": 300,
+        "x": 160,
+        "y": 940
+      },
+      "nrsb4imEsm": {
+        "createdAt": 1793103532967,
+        "h": 160,
+        "no": "10",
+        "ppl": [
+          {
+            "gid": "Jn72ggLNzr",
+            "id": "MyDJCPDaMJ",
+            "n": 1,
+            "name": "Annastasia"
+          },
+          {
+            "gid": "Jn72ggLNzr",
+            "id": "CumVRvKHqW",
+            "n": 1,
+            "name": "Anton"
+          },
+          {
+            "gid": "wdzWrPmEAR",
+            "id": "JouhntFnbx",
+            "n": 1,
+            "name": "Sarah"
+          },
+          {
+            "gid": "wdzWrPmEAR",
+            "id": "G2WB7E8gYf",
+            "n": 1,
+            "name": "Frede"
+          },
+          {
+            "gid": "cDkz9AM8NQ",
+            "id": "E4qaKfpTef",
+            "n": 1,
+            "name": "Maja"
+          },
+          {
+            "gid": "sTJ7Cebp77",
+            "id": "VEFovHX8oW",
+            "n": 1,
+            "name": "Jacob"
+          },
+          {
+            "gid": "sTJ7Cebp77",
+            "id": "4Uev8pbtdG",
+            "n": 1,
+            "name": "Marie"
+          },
+          {
+            "gid": "TwdKzHLUhS",
+            "id": "bofbghtSNn",
+            "n": 1,
+            "name": "Lukas"
+          }
+        ],
+        "seats": 8,
+        "shape": "round",
+        "w": 160,
+        "x": 1045,
+        "y": 980
+      },
+      "rW8UwDqrnH": {
+        "createdAt": 1793103413906,
+        "h": 160,
+        "no": "2",
+        "ppl": [
+          {
+            "gid": "LzP5UhpFEe",
+            "id": "X9MNBJeGtS",
+            "n": 1,
+            "name": "Bodil"
+          },
+          {
+            "gid": "NSU6AZ9bKT",
+            "id": "us7AoWaSPi",
+            "n": 1,
+            "name": "Christiane"
+          },
+          {
+            "gid": "JtboDQBDrq",
+            "id": "MDdr66W53g",
+            "n": 1,
+            "name": "Liselotte"
+          },
+          {
+            "gid": "JtboDQBDrq",
+            "id": "Dg5tSCaoRh",
+            "n": 1,
+            "name": "Mogens"
+          },
+          {
+            "gid": "GM4hSSYgSx",
+            "id": "ae3FdgPsFM",
+            "n": 1,
+            "name": "Lone"
+          },
+          {
+            "gid": "GM4hSSYgSx",
+            "id": "7r8VYTo9oX",
+            "n": 1,
+            "name": "Rene"
+          },
+          {
+            "gid": "f8NFTn3UC7",
+            "id": "BcNaC5E7sc",
+            "n": 1,
+            "name": "Bente"
+          },
+          {
+            "gid": "f8NFTn3UC7",
+            "id": "HutKHpCRXv",
+            "n": 1,
+            "name": "Luc"
+          }
+        ],
+        "seats": 8,
+        "shape": "round",
+        "w": 160,
+        "x": 1365,
+        "y": 310
+      },
+      "xXuUN8spme": {
+        "createdAt": 1793103435220,
+        "h": 160,
+        "no": "4",
+        "ppl": [
+          {
+            "gid": "NmuwD8PjEj",
+            "id": "xg9BvqeMzh",
+            "n": 1,
+            "name": "Cecilie"
+          },
+          {
+            "gid": "NmuwD8PjEj",
+            "id": "yzuKkcpNPx",
+            "n": 1,
+            "name": "Nicolai"
+          },
+          {
+            "gid": "P69aLSf37V",
+            "id": "qdbmRiNuxH",
+            "n": 1,
+            "name": "Rikke"
+          },
+          {
+            "gid": "P69aLSf37V",
+            "id": "udKuTh3Xwv",
+            "n": 1,
+            "name": "Daniel"
+          },
+          {
+            "gid": "PGvnxwcQRU",
+            "id": "h9o7p6nZdp",
+            "n": 1,
+            "name": "Mia"
+          },
+          {
+            "gid": "PGvnxwcQRU",
+            "id": "uNiZN4buoC",
+            "n": 1,
+            "name": "Kristoffer"
+          },
+          {
+            "gid": "dNGoYKrzfC",
+            "id": "QC9e84KH2T",
+            "n": 1,
+            "name": "Vibe"
+          },
+          {
+            "gid": "p8nbZehV8D",
+            "id": "JLujW6DonV",
+            "n": 1,
+            "name": "Emma"
+          }
+        ],
+        "seats": 8,
+        "shape": "round",
+        "w": 160,
+        "x": 1715,
+        "y": 310
+      }
+    },
+    "pub/info/main": {
+      "contacts": [
+        {
+          "email": "lydpedel@gmail.com",
+          "name": "Martin Knudsen",
+          "sections": [
+            "polter",
+            "toast"
+          ]
+        }
+      ]
+    },
+    "priv/tasks": {
+      "CdSgq4tWwk": {
+        "assignee": "",
+        "budgetRow": "82UryvBc2H",
+        "createdAt": 1793173067872,
+        "desc": "Vin fra Sydjysk vin",
+        "due": "2026-10-28",
+        "files": [
+          {
+            "id": "820174f8f8b8590b899403b6dade69bf",
+            "name": "Vin Faktura-1891.pdf",
+            "size": 94531,
+            "type": "application/pdf"
+          }
+        ],
+        "hasBudget": true,
+        "order": 1793173067872,
+        "status": "done",
+        "title": "Vin"
+      },
+      "FXiRBBRxKh": {
+        "assignee": "Brian",
+        "budgetRow": "PGPNymKgxJ",
+        "createdAt": 1793173112837,
+        "desc": "",
+        "due": "2026-10-14",
+        "files": [
+          {
+            "id": "0fcc731c1bcb7247e0f16fbb660d4396",
+            "name": "Cewe invitationer kvittering.pdf",
+            "size": 58224,
+            "type": "application/pdf"
+          },
+          {
+            "id": "a5bc412ce29730f4ebafe71dc1c2c787",
+            "name": "Cewe invitationer rabat.pdf",
+            "size": 82915,
+            "type": "application/pdf"
+          }
+        ],
+        "hasBudget": true,
+        "order": 1793173112837,
+        "status": "done",
+        "title": "Invitationer"
+      },
+      "HCfWTmfyDq": {
+        "assignee": "",
+        "budgetRow": null,
+        "createdAt": 1793185997064,
+        "desc": "",
+        "due": "2027-01-13",
+        "files": [],
+        "hasBudget": false,
+        "order": 1793185997064,
+        "parent": "mhT38ti4x9",
+        "price": 54245,
+        "status": "todo",
+        "title": "Edelsminde 2. rate"
+      },
+      "fYxYs2YFZg": {
+        "assignee": "",
+        "budgetRow": null,
+        "createdAt": 1793186076942,
+        "desc": "Bestilling af duge og sengelinned",
+        "due": "2027-03-01",
+        "files": [
+          {
+            "id": "4768550ad850700529347afbf13bc85b",
+            "name": "Bestilling af duge og sengelinned.pdf",
+            "size": 131957,
+            "type": "application/pdf"
+          }
+        ],
+        "hasBudget": false,
+        "order": 1793186076942,
+        "parent": "mhT38ti4x9",
+        "price": 0,
+        "status": "todo",
+        "title": "Bestille sengelinned og duge"
+      },
+      "kfVSCthGzQ": {
+        "assignee": "",
+        "budgetRow": null,
+        "createdAt": 1793185964830,
+        "desc": "",
+        "due": "2025-12-10",
+        "files": [],
+        "hasBudget": false,
+        "order": 1793185964830,
+        "parent": "mhT38ti4x9",
+        "price": 22144,
+        "status": "done",
+        "title": "Edelsminde 1. rate"
+      },
+      "mhT38ti4x9": {
+        "assignee": "",
+        "budgetRow": "sed5w28H7o",
+        "createdAt": 1793173025296,
+        "desc": "",
+        "due": "",
+        "files": [
+          {
+            "id": "944eed288667f5693871b4df88d02576",
+            "name": "Bestilling af duge og sengelinned.pdf",
+            "size": 131957,
+            "type": "application/pdf"
+          },
+          {
+            "id": "5213911fc4d248c7ad9f2ae310c7971f",
+            "name": "Slotsferie Danmark.pdf",
+            "size": 153880,
+            "type": "application/pdf"
+          }
+        ],
+        "hasBudget": true,
+        "order": 1793173025296,
+        "status": "todo",
+        "title": "Leje af lokaler"
+      },
+      "ngrZYsEHrU": {
+        "assignee": "",
+        "budgetRow": "mXkkCpR9Wr",
+        "createdAt": 1792917272229,
+        "desc": "",
+        "due": "2027-03-01",
+        "files": [],
+        "hasBudget": true,
+        "order": 1792917272229,
+        "status": "todo",
+        "title": "Lav bordkort"
+      },
+      "nwWR3UBDQq": {
+        "assignee": "",
+        "budgetRow": "c7kSodXfLa",
+        "createdAt": 1793173431957,
+        "desc": "",
+        "due": "2027-03-12",
+        "files": [
+          {
+            "id": "0c179daad1e309b49273ceb96ef5c63c",
+            "name": "North Avenue - Brian Friis - Bryllup (26022027).pdf",
+            "size": 443771,
+            "type": "application/pdf"
+          }
+        ],
+        "hasBudget": true,
+        "order": 1793173431957,
+        "status": "todo",
+        "title": "Musik"
+      },
+      "wmZpJK5puJ": {
+        "assignee": "",
+        "budgetRow": "wbeq356TPB",
+        "createdAt": 1792917517996,
+        "desc": "",
+        "due": "2027-03-01",
+        "files": [],
+        "hasBudget": true,
+        "order": 1792917517996,
+        "status": "todo",
+        "title": "Servering"
+      }
+    },
+    "priv/budget": {
+      "2p3iRcCfj9": {
+        "kind": "udgift",
+        "mode": "guest",
+        "order": 1793129794486,
+        "parent": "8jmZbHy5Q7",
+        "price": 51.14,
+        "qty": 1,
+        "t": "i",
+        "title": "Drikkevarer"
+      },
+      "3hMGESiibZ": {
+        "kind": "udgift",
+        "mode": "fixed",
+        "order": 3,
+        "parent": "d7UkyoK7rP",
+        "price": 1000,
+        "qty": 1,
+        "t": "i",
+        "title": "Diverse"
+      },
+      "4ZyGpeXhdG": {
+        "kind": "udgift",
+        "mode": "fixed",
+        "order": 6,
+        "parent": "d7UkyoK7rP",
+        "price": 591,
+        "qty": 0,
+        "t": "i",
+        "title": "Ølbrikker"
+      },
+      "7uZ8f3Bicg": {
+        "kind": "indtaegt",
+        "order": 1793129092096,
+        "t": "h",
+        "title": "Leje af værelser"
+      },
+      "82UryvBc2H": {
+        "kind": "udgift",
+        "mode": "guest",
+        "order": 1793129755797,
+        "paid": true,
+        "parent": "8jmZbHy5Q7",
+        "price": 174.89,
+        "qty": 1,
+        "t": "i",
+        "taskId": "CdSgq4tWwk",
+        "title": "Vin"
+      },
+      "8jmZbHy5Q7": {
+        "kind": "udgift",
+        "order": 1793128594348,
+        "t": "h",
+        "title": "Mad og drikke"
+      },
+      "9UPpdwdQpk": {
+        "kind": "indtaegt",
+        "mode": "fixed",
+        "order": 1793129186998,
+        "parent": "7uZ8f3Bicg",
+        "price": 300,
+        "qty": 35.7,
+        "t": "i",
+        "title": "Leje af værelser fredag"
+      },
+      "GV5MAcdxk5": {
+        "kind": "udgift",
+        "mode": "guest",
+        "order": 1793129850018,
+        "parent": "8jmZbHy5Q7",
+        "price": 48.86,
+        "qty": 1,
+        "t": "i",
+        "title": "Alkohol, Fleggaard"
+      },
+      "MucrscsdD8": {
+        "kind": "indtaegt",
+        "mode": "fixed",
+        "order": 1793129124353,
+        "parent": "7uZ8f3Bicg",
+        "price": 100,
+        "qty": 33.6,
+        "t": "i",
+        "title": "Leje af værelser onsdag"
+      },
+      "PGPNymKgxJ": {
+        "kind": "udgift",
+        "mode": "fixed",
+        "order": 1793130173219,
+        "paid": true,
+        "parent": "VyPtaghegJ",
+        "price": 838.56,
+        "qty": 1,
+        "t": "i",
+        "taskId": "FXiRBBRxKh",
+        "title": "Invitationer"
+      },
+      "QnsDM7LkUq": {
+        "kind": "udgift",
+        "mode": "fixed",
+        "order": 1793130124035,
+        "paid": true,
+        "parent": "VyPtaghegJ",
+        "price": 1069,
+        "qty": 1,
+        "t": "i",
+        "title": "Save the date"
+      },
+      "UG6hgBBCp5": {
+        "kind": "udgift",
+        "mode": "guest",
+        "order": 1793128851610,
+        "parent": "8jmZbHy5Q7",
+        "price": 250,
+        "qty": 1,
+        "t": "i",
+        "title": "Mad (overslag)"
+      },
+      "VyPtaghegJ": {
+        "kind": "udgift",
+        "order": 1793130100116,
+        "t": "h",
+        "title": "Grafik mm"
+      },
+      "XSihwuzseb": {
+        "kind": "udgift",
+        "mode": "fixed",
+        "order": 1,
+        "parent": "d7UkyoK7rP",
+        "price": 10000,
+        "qty": 1,
+        "t": "i",
+        "title": "Pynt"
+      },
+      "bqwXYKaRou": {
+        "kind": "udgift",
+        "mode": "fixed",
+        "order": 1793130507940,
+        "parent": "VyPtaghegJ",
+        "price": 3000,
+        "qty": 1,
+        "t": "i",
+        "title": "Rammer og billeder"
+      },
+      "c7kSodXfLa": {
+        "kind": "udgift",
+        "mode": "fixed",
+        "order": 2,
+        "parent": "d7UkyoK7rP",
+        "price": 28000,
+        "qty": 1,
+        "t": "i",
+        "taskId": "nwWR3UBDQq",
+        "title": "Musik"
+      },
+      "cmMKLGhEpi": {
+        "kind": "udgift",
+        "order": 1792877102122,
+        "t": "h",
+        "title": "Sted"
+      },
+      "d7UkyoK7rP": {
+        "kind": "udgift",
+        "order": 1793128603970,
+        "t": "h",
+        "title": "Diverse"
+      },
+      "dfCzm6QDd8": {
+        "kind": "indtaegt",
+        "mode": "fixed",
+        "order": 1793129227665,
+        "parent": "7uZ8f3Bicg",
+        "price": 100,
+        "qty": 33.6,
+        "t": "i",
+        "title": "Leje af værelser søndag"
+      },
+      "e2fgydcdNq": {
+        "kind": "udgift",
+        "mode": "fixed",
+        "order": 5,
+        "parent": "d7UkyoK7rP",
+        "price": 56,
+        "qty": 0,
+        "t": "i",
+        "title": "Glas med navne"
+      },
+      "fj6hfTW2NM": {
+        "kind": "indtaegt",
+        "mode": "fixed",
+        "order": 1793129203138,
+        "parent": "7uZ8f3Bicg",
+        "price": 100,
+        "qty": 33.6,
+        "t": "i",
+        "title": "Leje af værelser lørdag"
+      },
+      "heoaqnYvJc": {
+        "kind": "indtaegt",
+        "mode": "fixed",
+        "order": 1793129146433,
+        "parent": "7uZ8f3Bicg",
+        "price": 100,
+        "qty": 33.6,
+        "t": "i",
+        "title": "Leje af værelser torsdag"
+      },
+      "mXkkCpR9Wr": {
+        "kind": "udgift",
+        "mode": "fixed",
+        "order": 4,
+        "parent": "d7UkyoK7rP",
+        "price": 0,
+        "qty": 1,
+        "t": "i",
+        "taskId": "ngrZYsEHrU",
+        "title": "Lav bordkort"
+      },
+      "pjCb2fgxY2": {
+        "kind": "udgift",
+        "mode": "fixed",
+        "order": 1793130464404,
+        "parent": "VyPtaghegJ",
+        "price": 1000,
+        "qty": 1,
+        "t": "i",
+        "title": "Diverse grafik"
+      },
+      "sGPgW55Taq": {
+        "kind": "udgift",
+        "mode": "fixed",
+        "order": 1793129957144,
+        "parent": "8jmZbHy5Q7",
+        "price": 1000,
+        "qty": 1,
+        "t": "i",
+        "title": "Snacks"
+      },
+      "sed5w28H7o": {
+        "extra": 76389,
+        "kind": "udgift",
+        "mode": "fixed",
+        "order": 1792877121336,
+        "parent": "cmMKLGhEpi",
+        "price": 0,
+        "qty": 1,
+        "t": "i",
+        "taskId": "mhT38ti4x9",
+        "title": "Leje af lokaler"
+      },
+      "wbeq356TPB": {
+        "actual": 24900,
+        "kind": "udgift",
+        "mode": "fixed",
+        "order": 1792917517639,
+        "parent": "8jmZbHy5Q7",
+        "price": 24900,
+        "qty": 1,
+        "t": "i",
+        "taskId": "wmZpJK5puJ",
+        "title": "Servering"
+      },
+      "xBsmHkQhv4": {
+        "kind": "udgift",
+        "mode": "guest",
+        "order": 1793129045170,
+        "parent": "8jmZbHy5Q7",
+        "price": 15,
+        "qty": 1,
+        "t": "i",
+        "title": "Reception"
+      }
+    },
+    "pub/gallery": {},
+    "pub/polter/main": null,
+    "pub/speeches": {},
+    "weddings/6Ydfg67Dm2": {
+      "base": "",
+      "contacts": [
+        {
+          "email": "lydpedel@gmail.com",
+          "id": "gZcdWoamJC",
+          "name": "Martin Knudsen",
+          "sections": [
+            "polter",
+            "toast"
+          ],
+          "uid": ""
+        }
+      ],
+      "createdAt": 1792877010384,
+      "date": "2027-03-26",
+      "invite": null,
+      "names": "Brian og Emil",
+      "place": "Edelsminde gods",
+      "rsvpPending": true,
+      "siteUrl": "https://emilogbrian.voresbryllup.dk/",
+      "tokens": {
+        "gallery": "ursZDHQ36A",
+        "polter": "ewxErBArLd",
+        "toast": "WNZZ-R~zN2"
+      }
+    },
+    "links": {
+      "27kUHFHM6x": {
+        "adults": 2,
+        "children": 0,
+        "date": "2027-03-26",
+        "gid": "27kUHFHM6x",
+        "group": "Brians fætre og kusiner",
+        "name": "Veronica og Frank",
+        "names": "Brian og Emil",
+        "place": "Edelsminde gods",
+        "type": "rsvp",
+        "wid": "6Ydfg67Dm2"
+      },
+      "4YqmhbgLjy": {
+        "adults": 1,
+        "children": 0,
+        "date": "2027-03-26",
+        "gid": "4YqmhbgLjy",
+        "group": "Mostre, faster, onkler & tanter",
+        "name": "Ingermargrethe",
+        "names": "Brian og Emil",
+        "place": "Edelsminde gods",
+        "type": "rsvp",
+        "wid": "6Ydfg67Dm2"
+      },
+      "5KRv9ZtUxB": {
+        "adults": 1,
+        "children": 0,
+        "date": "2027-03-26",
+        "gid": "5KRv9ZtUxB",
+        "group": "Brians fætre og kusiner",
+        "name": "Bastian",
+        "names": "Brian og Emil",
+        "place": "Edelsminde gods",
+        "type": "rsvp",
+        "wid": "6Ydfg67Dm2"
+      },
+      "6MVJdnk8zK": {
+        "adults": 2,
+        "children": 0,
+        "date": "2027-03-26",
+        "gid": "6MVJdnk8zK",
+        "group": "Brians fætre og kusiner",
+        "name": "Mathias og Sarah",
+        "names": "Brian og Emil",
+        "place": "Edelsminde gods",
+        "type": "rsvp",
+        "wid": "6Ydfg67Dm2"
+      },
+      "6QUjkhasN2": {
+        "adults": 2,
+        "children": 0,
+        "date": "2027-03-26",
+        "gid": "6QUjkhasN2",
+        "group": "Brians fætre og kusiner",
+        "name": "Lasse og Marie",
+        "names": "Brian og Emil",
+        "place": "Edelsminde gods",
+        "type": "rsvp",
+        "wid": "6Ydfg67Dm2"
+      },
+      "8FAPPWuRMR": {
+        "adults": 2,
+        "children": 0,
+        "date": "2027-03-26",
+        "gid": "8FAPPWuRMR",
+        "group": "Gran familie",
+        "name": "Birger og Bonnie",
+        "names": "Brian og Emil",
+        "place": "Edelsminde gods",
+        "type": "rsvp",
+        "wid": "6Ydfg67Dm2"
+      },
+      "Cic6CA2L57": {
+        "adults": 2,
+        "children": 0,
+        "date": "2027-03-26",
+        "gid": "Cic6CA2L57",
+        "group": "Venner",
+        "name": "Jakob D og Rasmus",
+        "names": "Brian og Emil",
+        "place": "Edelsminde gods",
+        "type": "rsvp",
+        "wid": "6Ydfg67Dm2"
+      },
+      "ETmkQbkSRc": {
+        "adults": 1,
+        "children": 0,
+        "date": "2027-03-26",
+        "gid": "ETmkQbkSRc",
+        "group": "Mostre, faster, onkler & tanter",
+        "name": "Lone",
+        "names": "Brian og Emil",
+        "place": "Edelsminde gods",
+        "type": "rsvp",
+        "wid": "6Ydfg67Dm2"
+      },
+      "Eh8C6tV7BS": {
+        "adults": 2,
+        "children": 0,
+        "date": "2027-03-26",
+        "gid": "Eh8C6tV7BS",
+        "group": "Brians fætre og kusiner",
+        "name": "Christian og Charlotte",
+        "names": "Brian og Emil",
+        "place": "Edelsminde gods",
+        "type": "rsvp",
+        "wid": "6Ydfg67Dm2"
+      },
+      "EjaWKVJPvE": {
+        "adults": 2,
+        "children": 0,
+        "date": "2027-03-26",
+        "gid": "EjaWKVJPvE",
+        "group": "Venner",
+        "name": "Lasse og Jimmy",
+        "names": "Brian og Emil",
+        "place": "Edelsminde gods",
+        "type": "rsvp",
+        "wid": "6Ydfg67Dm2"
+      },
+      "FfWfY2iunh": {
+        "adults": 2,
+        "children": 0,
+        "date": "2027-03-26",
+        "gid": "FfWfY2iunh",
+        "group": "Brians fætre og kusiner",
+        "name": "Henrik og Mia",
+        "names": "Brian og Emil",
+        "place": "Edelsminde gods",
+        "type": "rsvp",
+        "wid": "6Ydfg67Dm2"
+      },
+      "GM4hSSYgSx": {
+        "adults": 2,
+        "children": 0,
+        "date": "2027-03-26",
+        "gid": "GM4hSSYgSx",
+        "group": "Mostre, faster, onkler & tanter",
+        "name": "Lone og Rene",
+        "names": "Brian og Emil",
+        "place": "Edelsminde gods",
+        "type": "rsvp",
+        "wid": "6Ydfg67Dm2"
+      },
+      "JUCcNE9Vqq": {
+        "adults": 1,
+        "children": 0,
+        "date": "2027-03-26",
+        "gid": "JUCcNE9Vqq",
+        "group": "Venner",
+        "name": "Steven",
+        "names": "Brian og Emil",
+        "place": "Edelsminde gods",
+        "type": "rsvp",
+        "wid": "6Ydfg67Dm2"
+      },
+      "Jn72ggLNzr": {
+        "adults": 2,
+        "children": 0,
+        "date": "2027-03-26",
+        "gid": "Jn72ggLNzr",
+        "group": "Venner",
+        "name": "Annastasia og Anton",
+        "names": "Brian og Emil",
+        "place": "Edelsminde gods",
+        "type": "rsvp",
+        "wid": "6Ydfg67Dm2"
+      },
+      "JtboDQBDrq": {
+        "adults": 2,
+        "children": 0,
+        "date": "2027-03-26",
+        "gid": "JtboDQBDrq",
+        "group": "Bedsteforældre",
+        "name": "Liselotte og Mogens",
+        "names": "Brian og Emil",
+        "place": "Edelsminde gods",
+        "type": "rsvp",
+        "wid": "6Ydfg67Dm2"
+      },
+      "LzP5UhpFEe": {
+        "adults": 1,
+        "children": 0,
+        "date": "2027-03-26",
+        "gid": "LzP5UhpFEe",
+        "group": "Forældre",
+        "name": "Bodil",
+        "names": "Brian og Emil",
+        "place": "Edelsminde gods",
+        "type": "rsvp",
+        "wid": "6Ydfg67Dm2"
+      },
+      "M3CRpzdGNK": {
+        "adults": 1,
+        "children": 0,
+        "date": "2027-03-26",
+        "gid": "M3CRpzdGNK",
+        "group": "Brians fætre og kusiner",
+        "name": "Milo",
+        "names": "Brian og Emil",
+        "place": "Edelsminde gods",
+        "type": "rsvp",
+        "wid": "6Ydfg67Dm2"
+      },
+      "NSU6AZ9bKT": {
+        "adults": 1,
+        "children": 0,
+        "date": "2027-03-26",
+        "gid": "NSU6AZ9bKT",
+        "group": "Forældre",
+        "name": "Christiane",
+        "names": "Brian og Emil",
+        "place": "Edelsminde gods",
+        "type": "rsvp",
+        "wid": "6Ydfg67Dm2"
+      },
+      "NmuwD8PjEj": {
+        "adults": 2,
+        "children": 0,
+        "date": "2027-03-26",
+        "gid": "NmuwD8PjEj",
+        "group": "Søskende",
+        "name": "Cecilie og Nicolai",
+        "names": "Brian og Emil",
+        "place": "Edelsminde gods",
+        "type": "rsvp",
+        "wid": "6Ydfg67Dm2"
+      },
+      "P69aLSf37V": {
+        "adults": 2,
+        "children": 0,
+        "date": "2027-03-26",
+        "gid": "P69aLSf37V",
+        "group": "Emils fætre og kusiner",
+        "name": "Rikke og Daniel",
+        "names": "Brian og Emil",
+        "place": "Edelsminde gods",
+        "type": "rsvp",
+        "wid": "6Ydfg67Dm2"
+      },
+      "PGvnxwcQRU": {
+        "adults": 2,
+        "children": 0,
+        "date": "2027-03-26",
+        "gid": "PGvnxwcQRU",
+        "group": "Emils fætre og kusiner",
+        "name": "Mia og Kristoffer",
+        "names": "Brian og Emil",
+        "place": "Edelsminde gods",
+        "type": "rsvp",
+        "wid": "6Ydfg67Dm2"
+      },
+      "PJmPDM5S4M": {
+        "adults": 2,
+        "children": 0,
+        "date": "2027-03-26",
+        "gid": "PJmPDM5S4M",
+        "group": "Mostre, faster, onkler & tanter",
+        "name": "Tove og Niels",
+        "names": "Brian og Emil",
+        "place": "Edelsminde gods",
+        "type": "rsvp",
+        "wid": "6Ydfg67Dm2"
+      },
+      "RNQyyEhwA3": {
+        "adults": 1,
+        "children": 0,
+        "date": "2027-03-26",
+        "gid": "RNQyyEhwA3",
+        "group": "Mostre, faster, onkler & tanter",
+        "name": "Jane",
+        "names": "Brian og Emil",
+        "place": "Edelsminde gods",
+        "type": "rsvp",
+        "wid": "6Ydfg67Dm2"
+      },
+      "SJPgTB4Bja": {
+        "adults": 2,
+        "children": 0,
+        "date": "2027-03-26",
+        "gid": "SJPgTB4Bja",
+        "group": "Gran familie",
+        "name": "Peter og Jen",
+        "names": "Brian og Emil",
+        "place": "Edelsminde gods",
+        "type": "rsvp",
+        "wid": "6Ydfg67Dm2"
+      },
+      "TwdKzHLUhS": {
+        "adults": 1,
+        "children": 0,
+        "date": "2027-03-26",
+        "gid": "TwdKzHLUhS",
+        "group": "Venner",
+        "name": "Lukas",
+        "names": "Brian og Emil",
+        "place": "Edelsminde gods",
+        "type": "rsvp",
+        "wid": "6Ydfg67Dm2"
+      },
+      "UqMYvD5mtV": {
+        "adults": 2,
+        "children": 0,
+        "date": "2027-03-26",
+        "gid": "UqMYvD5mtV",
+        "group": "Brians fætre og kusiner",
+        "name": "Max og Rikke",
+        "names": "Brian og Emil",
+        "place": "Edelsminde gods",
+        "type": "rsvp",
+        "wid": "6Ydfg67Dm2"
+      },
+      "V6PpguACzK": {
+        "adults": 2,
+        "children": 0,
+        "date": "2027-03-26",
+        "gid": "V6PpguACzK",
+        "group": "Brians fætre og kusiner",
+        "name": "Cecilie og Kristian",
+        "names": "Brian og Emil",
+        "place": "Edelsminde gods",
+        "type": "rsvp",
+        "wid": "6Ydfg67Dm2"
+      },
+      "WNZZ-R~zN2": {
+        "type": "toast",
+        "wid": "6Ydfg67Dm2"
+      },
+      "Y9nuqjKPok": {
+        "adults": 2,
+        "children": 0,
+        "date": "2027-03-26",
+        "gid": "Y9nuqjKPok",
+        "group": "Brians fætre og kusiner",
+        "name": "Andreas og Nanna",
+        "names": "Brian og Emil",
+        "place": "Edelsminde gods",
+        "type": "rsvp",
+        "wid": "6Ydfg67Dm2"
+      },
+      "Zyd43J9FCB": {
+        "adults": 2,
+        "children": 0,
+        "date": "2027-03-26",
+        "gid": "Zyd43J9FCB",
+        "group": "Venner",
+        "name": "Nanna og Daniel",
+        "names": "Brian og Emil",
+        "place": "Edelsminde gods",
+        "type": "rsvp",
+        "wid": "6Ydfg67Dm2"
+      },
+      "aFVM4Y2VHk": {
+        "adults": 2,
+        "children": 0,
+        "date": "2027-03-26",
+        "gid": "aFVM4Y2VHk",
+        "group": "Søskende",
+        "name": "Jonas og Pernille",
+        "names": "Brian og Emil",
+        "place": "Edelsminde gods",
+        "type": "rsvp",
+        "wid": "6Ydfg67Dm2"
+      },
+      "bbRNAwyiEq": {
+        "adults": 2,
+        "children": 0,
+        "date": "2027-03-26",
+        "gid": "bbRNAwyiEq",
+        "group": "Brians fætre og kusiner",
+        "name": "Jesper og Mette",
+        "names": "Brian og Emil",
+        "place": "Edelsminde gods",
+        "type": "rsvp",
+        "wid": "6Ydfg67Dm2"
+      },
+      "bn24xCkAAB": {
+        "adults": 2,
+        "children": 0,
+        "date": "2027-03-26",
+        "gid": "bn24xCkAAB",
+        "group": "Brians fætre og kusiner",
+        "name": "Gitte og Flemming",
+        "names": "Brian og Emil",
+        "place": "Edelsminde gods",
+        "type": "rsvp",
+        "wid": "6Ydfg67Dm2"
+      },
+      "br4nrXTHqx": {
+        "adults": 2,
+        "children": 0,
+        "date": "2027-03-26",
+        "gid": "br4nrXTHqx",
+        "group": "Søskende",
+        "name": "Bruno og Nikoline",
+        "names": "Brian og Emil",
+        "place": "Edelsminde gods",
+        "type": "rsvp",
+        "wid": "6Ydfg67Dm2"
+      },
+      "cDkz9AM8NQ": {
+        "adults": 1,
+        "children": 0,
+        "date": "2027-03-26",
+        "gid": "cDkz9AM8NQ",
+        "group": "Venner",
+        "name": "Maja",
+        "names": "Brian og Emil",
+        "place": "Edelsminde gods",
+        "type": "rsvp",
+        "wid": "6Ydfg67Dm2"
+      },
+      "dNGoYKrzfC": {
+        "adults": 1,
+        "children": 0,
+        "date": "2027-03-26",
+        "gid": "dNGoYKrzfC",
+        "group": "Venner",
+        "name": "Vibe",
+        "names": "Brian og Emil",
+        "place": "Edelsminde gods",
+        "type": "rsvp",
+        "wid": "6Ydfg67Dm2"
+      },
+      "eWQVzJScjm": {
+        "adults": 1,
+        "children": 0,
+        "date": "2027-03-26",
+        "gid": "eWQVzJScjm",
+        "group": "Forældre",
+        "name": "Kaj",
+        "names": "Brian og Emil",
+        "place": "Edelsminde gods",
+        "type": "rsvp",
+        "wid": "6Ydfg67Dm2"
+      },
+      "ewxErBArLd": {
+        "type": "polter",
+        "wid": "6Ydfg67Dm2"
+      },
+      "f8NFTn3UC7": {
+        "adults": 2,
+        "children": 0,
+        "date": "2027-03-26",
+        "gid": "f8NFTn3UC7",
+        "group": "Mostre, faster, onkler & tanter",
+        "name": "Bente og Luc",
+        "names": "Brian og Emil",
+        "place": "Edelsminde gods",
+        "type": "rsvp",
+        "wid": "6Ydfg67Dm2"
+      },
+      "f9XNh2gxmk": {
+        "adults": 2,
+        "children": 0,
+        "date": "2027-03-26",
+        "gid": "f9XNh2gxmk",
+        "group": "Brians fætre og kusiner",
+        "name": "Michael og Majken",
+        "names": "Brian og Emil",
+        "place": "Edelsminde gods",
+        "type": "rsvp",
+        "wid": "6Ydfg67Dm2"
+      },
+      "ijkRhXGFrp": {
+        "adults": 2,
+        "children": 0,
+        "date": "2027-03-26",
+        "gid": "ijkRhXGFrp",
+        "group": "Brians fætre og kusiner",
+        "name": "Alexander og Rosa",
+        "names": "Brian og Emil",
+        "place": "Edelsminde gods",
+        "type": "rsvp",
+        "wid": "6Ydfg67Dm2"
+      },
+      "jKsVDR2upx": {
+        "adults": 2,
+        "children": 0,
+        "date": "2027-03-26",
+        "gid": "jKsVDR2upx",
+        "group": "Brudepar",
+        "name": "Brian og Emil",
+        "names": "Brian og Emil",
+        "place": "Edelsminde gods",
+        "type": "rsvp",
+        "wid": "6Ydfg67Dm2"
+      },
+      "n9qnLZw6Jt": {
+        "adults": 2,
+        "children": 0,
+        "date": "2027-03-26",
+        "gid": "n9qnLZw6Jt",
+        "group": "Brians fætre og kusiner",
+        "name": "Stig og Anne Julie",
+        "names": "Brian og Emil",
+        "place": "Edelsminde gods",
+        "type": "rsvp",
+        "wid": "6Ydfg67Dm2"
+      },
+      "nxNKYs9eAa": {
+        "adults": 2,
+        "children": 0,
+        "date": "2027-03-26",
+        "gid": "nxNKYs9eAa",
+        "group": "Brians fætre og kusiner",
+        "name": "Victoria og Magnus",
+        "names": "Brian og Emil",
+        "place": "Edelsminde gods",
+        "type": "rsvp",
+        "wid": "6Ydfg67Dm2"
+      },
+      "p8nbZehV8D": {
+        "adults": 1,
+        "children": 0,
+        "date": "2027-03-26",
+        "gid": "p8nbZehV8D",
+        "group": "Venner",
+        "name": "Emma",
+        "names": "Brian og Emil",
+        "place": "Edelsminde gods",
+        "type": "rsvp",
+        "wid": "6Ydfg67Dm2"
+      },
+      "qyhwKWPRU7": {
+        "adults": 1,
+        "children": 0,
+        "date": "2027-03-26",
+        "gid": "qyhwKWPRU7",
+        "group": "Venner",
+        "name": "Martin",
+        "names": "Brian og Emil",
+        "place": "Edelsminde gods",
+        "type": "rsvp",
+        "wid": "6Ydfg67Dm2"
+      },
+      "s82G8udbDv": {
+        "adults": 1,
+        "children": 0,
+        "date": "2027-03-26",
+        "gid": "s82G8udbDv",
+        "group": "Venner",
+        "name": "Søren",
+        "names": "Brian og Emil",
+        "place": "Edelsminde gods",
+        "type": "rsvp",
+        "wid": "6Ydfg67Dm2"
+      },
+      "sFJutFC6Sd": {
+        "adults": 2,
+        "children": 0,
+        "date": "2027-03-26",
+        "gid": "sFJutFC6Sd",
+        "group": "Venner",
+        "name": "Karina og Rune",
+        "names": "Brian og Emil",
+        "place": "Edelsminde gods",
+        "type": "rsvp",
+        "wid": "6Ydfg67Dm2"
+      },
+      "sTJ7Cebp77": {
+        "adults": 2,
+        "children": 0,
+        "date": "2027-03-26",
+        "gid": "sTJ7Cebp77",
+        "group": "Venner",
+        "name": "Jacob og Marie",
+        "names": "Brian og Emil",
+        "place": "Edelsminde gods",
+        "type": "rsvp",
+        "wid": "6Ydfg67Dm2"
+      },
+      "sbjMJWDZew": {
+        "adults": 2,
+        "children": 0,
+        "date": "2027-03-26",
+        "gid": "sbjMJWDZew",
+        "group": "Gran familie",
+        "name": "Søren og Sandie",
+        "names": "Brian og Emil",
+        "place": "Edelsminde gods",
+        "type": "rsvp",
+        "wid": "6Ydfg67Dm2"
+      },
+      "ursZDHQ36A": {
+        "date": "2027-03-26",
+        "names": "Brian og Emil",
+        "type": "gallery",
+        "wid": "6Ydfg67Dm2"
+      },
+      "wdzWrPmEAR": {
+        "adults": 2,
+        "children": 0,
+        "date": "2027-03-26",
+        "gid": "wdzWrPmEAR",
+        "group": "Venner",
+        "name": "Sarah og Frede",
+        "names": "Brian og Emil",
+        "place": "Edelsminde gods",
+        "type": "rsvp",
+        "wid": "6Ydfg67Dm2"
+      },
+      "wsUA6nXGr8": {
+        "adults": 1,
+        "children": 0,
+        "date": "2027-03-26",
+        "gid": "wsUA6nXGr8",
+        "group": "Venner",
+        "name": "Knudsen",
+        "names": "Brian og Emil",
+        "place": "Edelsminde gods",
+        "type": "rsvp",
+        "wid": "6Ydfg67Dm2"
+      },
+      "x2xPn8aYCV": {
+        "adults": 2,
+        "children": 0,
+        "date": "2027-03-26",
+        "gid": "x2xPn8aYCV",
+        "group": "Venner",
+        "name": "Mads og Joachim",
+        "names": "Brian og Emil",
+        "place": "Edelsminde gods",
+        "type": "rsvp",
+        "wid": "6Ydfg67Dm2"
+      },
+      "xKCw8EQbKb": {
+        "adults": 2,
+        "children": 0,
+        "date": "2027-03-26",
+        "gid": "xKCw8EQbKb",
+        "group": "Mostre, faster, onkler & tanter",
+        "name": "Kim og Kirsten",
+        "names": "Brian og Emil",
+        "place": "Edelsminde gods",
+        "type": "rsvp",
+        "wid": "6Ydfg67Dm2"
+      }
+    },
+    "pub/menu": {
+      "2KsmXDStzG": {
+        "by": "Brian",
+        "desc": "Bryllupskage (Leveres fra bageri – Serveres kl. 15.15)\nSnacks og chokolade \nBobler (Velkomstdrink)\nKaffe\nDrikkevare (På is i kasser)",
+        "files": [],
+        "links": [],
+        "order": 4,
+        "title": "Reception"
+      },
+      "8smwrySuRY": {
+        "by": "Brian",
+        "desc": "Mini fad med ”morgenmad” pålæg, ost, marmelade og brød",
+        "files": [],
+        "links": [],
+        "order": 9,
+        "title": "Tidlig morgenmad"
+      },
+      "FesAFuJncS": {
+        "by": "Brian",
+        "date": "2027-03-25",
+        "desc": "Alle sørger selv for morgenmad og frokost<br>Aftensmad 18.00-20.00 - Mørbradgryde med ris",
+        "files": [],
+        "links": [],
+        "order": 2,
+        "time": "",
+        "title": "Torsdag"
+      },
+      "G7hV7o3PqB": {
+        "by": "Brian",
+        "desc": "Toast – Skinke/Ost\nDrinksbuffet",
+        "files": [],
+        "links": [],
+        "order": 8,
+        "title": "Natmad"
+      },
+      "NCS29fUqg7": {
+        "by": "Brian",
+        "desc": "Serveret på tallerken:<br>- Rosa stegt oksemørbrad på en bund af gulerodspure, toppet med dansk ærteskud<br><br>Serveret på bord i skåle:<br>- Ovnbagt kartofler vendt i timian<br>- Flødekartofler <br>- Broccolisalat (Blancheret)<br>- Mix af Cherrytomater med feta, spinat og frisk krydderurter<br>- Saltristede græskar- &amp; solsikkekerner<br>- Rødvinssauce <br>- Champignonsauce <br><br>Ønske: Oksemørbrad, Ovnstegte kartofler, Flødekartofler, Fetasalat med tomater og spinat, Broccolisalat - rosiner ved siden af, Rødvinssovs, Champignonsovs<br><br><u>Spørgsmål:</u><br>Skal vi servere 2. gang?<br>Rødvin på bord<br>Vegetar alternativ?",
+        "files": [],
+        "links": [],
+        "order": 6,
+        "title": "Hovedret"
+      },
+      "ScwXRStfEC": {
+        "by": "Brian",
+        "date": "2027-03-27",
+        "desc": "Rundstykker &amp; rugbrød<br>Brunsviger &amp; dagmarstang<br>Røræg, Pølser &amp; Bacon<br>Lun Leverpostej<br>Rullepølse, Skinke, spegepølse<br>Skive Ost, smørreost &amp; Brie<br>Marmelade &amp; Nutella<br>Frisk frugt og grønt<br>Smør<br>Juice og Kaffe",
+        "files": [],
+        "links": [],
+        "order": 10,
+        "time": "",
+        "title": "Morgenmad"
+      },
+      "j6GzLRsWkS": {
+        "by": "Brian",
+        "desc": "Alle sørger selv for morgenmad<br><br><u>Frokost 11.30-13.00:</u><br>Pålægskagemad eller Smørrebrød – Fiskefilet, Æg/Rejer, Kartoffelmad, Flæskesteg<br>Serveres i hovedhusets køkken",
+        "files": [],
+        "links": [],
+        "order": 3,
+        "title": "Fredag"
+      },
+      "mDVhNGeiy2": {
+        "by": "Brian",
+        "date": "2027-03-24",
+        "desc": "Alle sørger selv for egen mad",
+        "files": [],
+        "links": [],
+        "order": 1,
+        "time": "",
+        "title": "Onsdag"
+      },
+      "pEpyHg5fsn": {
+        "by": "Brian",
+        "desc": "- Hønsesalat – Rørt dansk kylling med syrlig creme fraiche, danske æbler & sprød bacon \n- Svampesalat – Vegetar – Symfoni af svampe vendt i økologisk fløde, ristet mandler og karse\n- Tunmousse – Rørt tun i cremet mayonnaise, kapers med frisk dild & purløg\n- Hjemmelavet brød – Frisk bagt focaccia brød og sprøde rugbrødschips (Brød bages af Emils Mor)\n- Pisket smør\n\nSalater serveret i skåle på borde, og brød i kurv\nServeres på bordene \nHvidvin på bordet – Står på bordet fra start",
+        "files": [],
+        "links": [],
+        "order": 5,
+        "title": "Forret"
+      },
+      "wPf6KoJsHm": {
+        "by": "Brian",
+        "desc": "Vebbestrup islagkage 2,5L - Vanilje, nougat og chokolade<br>Serveret på fad på bordet, tallerkner sættes på bord inden.<br>Portvin på bord<br>Kaffe og Baley på buffet (Serveret inden desserten)<br><br><u>Spørgsmål:</u><br>Skal der serveres noget til islagkagen? Muligvis friske bær?",
+        "files": [],
+        "links": [],
+        "order": 7,
+        "title": "Dessert"
+      }
+    }
+  }
+}
